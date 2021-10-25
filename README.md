@@ -1,9 +1,9 @@
 # Disclosure Reports
 ## Introduction
-This repo, Disclosure Reports, contains "DISCLOSURE REPORT FOR PUBLIC INSPECTION PURSUANT TO INTERNAL REVENUE CODE SECTION 6103(p)(3)(C)" of calendar year 1996 to 2020, prepared by the Internal Revenue Service and published by Joint Committee on Taxation.
+This repo, Disclosure Reports, contains "DISCLOSURE REPORT FOR PUBLIC INSPECTION PURSUANT TO INTERNAL REVENUE CODE SECTION 6103(p)(3)(C)" of calendar year 1996 to 2020, prepared by the Internal Revenue Service and published by Joint Committee on Taxation. This repo is a digitization of [IRC 6103 disclosure reports](https://www.jct.gov/search/?keyword=Disclosure%20report%20for%20public%20inspection%20pursuant%20to%20Internal%20Revenue%20code%20section%206103(p)(3)(C)&it=content)
 
 ## Project Detail
-This repo includes the following:
+Three files are included in this repo:
 - `master.csv` is the count of disclosures generated from Bulk Master File
 
 Bulk Master File Data: Disclosures are generated when an agency receives data from an IRS database extract of taxpayer information. Each extract contains different data elements of a taxpayer’s account information based on the nature and purpose of the specific extract. A block of data elements for one taxpayer for one year or period constitutes one record and is counted as one disclosure. In order to account for any disclosure, the taxpayer’s identity information (taxpayer’s name, identification number and/or address) is included in every extract record. Other data specific to that extract is included in the record depending on the extract. Each record, regardless of amount of data elements constitutes one disclosure. Examples of varying data elements within a record include, for example: income; specific line items (or unique combinations of line items) from a tax return; account transactions (payments, assessments, refunds, adjustments); math and audit adjustments; filing dates and other filing activities such as extensions, filing status and exemptions. Each tax year or period disclosed for each record is counted as one disclosure.
