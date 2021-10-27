@@ -20,5 +20,5 @@ Three files are included in this repo:
 ### Note
 In all three forms, the row 'SUM' is the summation of number of disclosure under all categories (Disclosure To/For, IRC Section 6103 subsection). 'SUM' is calculated by this project's contributors. 'TOTALS' is the total number of disclsure under all categories, announced by the original IRC 6103 reports. Please be aware that 'SUM' and 'TOTALS' showing some mismatches in some of the years. The reason of these mismatches is unclear. Suggest consulting the publisher of reports.
 
-### Citation
+### Reference
 The Joint Committee on Taxation & Internal Revenue Service (1996-2020). Disclosure Report For Public Inspection Pursuant To Internal Revenue Code Section 6103(p)(3)(C) 
