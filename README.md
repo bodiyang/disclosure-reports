@@ -15,3 +15,10 @@ Three files are included in this repo:
 - `total.csv` is the total count of disclosures 
 
 > The number of disclosures of tax information depends on the type of record disclosed and what constitutes a record subject to disclosure accounting. Generally, when the IRS discloses some part of one taxpayer’s record for one tax year or period, the IRS counts that as one disclosure. For example, if the IRS discloses a return transcript to a state tax agency, the IRS counts one disclosure for every tax year each time a transcript is disclosed. If the agency receives a transcript for two tax years, the IRS counts that as two disclosures. If the agency receives three different transcripts for the same taxpayer and tax year, the IRS counts three disclosures since each transcript is a separate record.
+
+
+### Note
+In all three forms, the row 'SUM' is the summation of number of disclosure under all categories (Disclosure To/For, IRC Section 6103 subsection). 'SUM' is calculated by this project's contributors. 'TOTALS' is the total number of disclsure under all categories, announced by the original IRC 6103 reports. Please be aware that 'SUM' and 'TOTALS' showing some mismatches in some of the years. The reason of these mismatches is unclear. Suggest consulting the publisher of reports.
+
+### Reference
+The Joint Committee on Taxation & Internal Revenue Service (1996-2020). Disclosure Report For Public Inspection Pursuant To Internal Revenue Code Section 6103(p)(3)(C) 
