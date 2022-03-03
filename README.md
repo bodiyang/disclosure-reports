@@ -20,7 +20,7 @@ Three files are included in this repo:
 ### Note
 - In all three forms, the row 'SUM' is the summation of number of disclosure under all categories (Disclosure To/For, IRC Section 6103 subsection). 'SUM' is calculated by this project's contributors. 'TOTALS' is the total number of disclsure under all categories, announced by the original IRC 6103 reports. Please be aware that 'SUM' and 'TOTALS' showing some mismatches in some of the years. The reason of these mismatches is unclear. Suggest consulting the publisher of reports.
 
-- To be noticed: the disclosure numbers of SSA 6103(l)(20) of the year 2012 & 2013 have been corrected; the disclosure numbers of Child Support Enforcement Agencies 6103(l)(6) of the year 2013, 2014 & 2015 have been corrected, as documented in pg 5 of JCX-89-15 and pg 6 of JCX-32-16. So the disclosure numbers of these items are different from the ones in original disclosure reports.
+- To be noticed: the disclosure numbers of Social Security Administration 6103(l)(20) & Bureau of Economic Analysis of the year 2012 & 2013 have been corrected; the disclosure numbers of Child Support Enforcement Agencies 6103(l)(6) of the year 2013, 2014 & 2015 have been corrected, as documented in pg 5 of JCX-89-15 and pg 6 of JCX-32-16. So the disclosure numbers of these items are different from the ones in original disclosure reports.
 
 ### Reference
 The Joint Committee on Taxation & Internal Revenue Service (1996-2020). Disclosure Report For Public Inspection Pursuant To Internal Revenue Code Section 6103(p)(3)(C) 
